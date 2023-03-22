@@ -1,2 +1,3 @@
 # Rachael-Stead-Professional-Portfolio
-Professional Portfolio of work to showcase my skills to employers looking to fill a part-time or full-time position.
+## This is my Professional Portfolio designed to showcase my skills to employers looking to fill a part-time or full-time position.
+
