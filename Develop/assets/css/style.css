@@ -1,0 +1,183 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+  font-family: 'Times New Roman', Times, serif
+  
+}
+ 
+
+/* Style the header section */
+header {
+    margin:auto ;
+    padding: 20px;
+    border: 20px; ;
+    content: 20px; ;
+    font-family:'Times New Roman', Times, serifs;
+    text-align: center;
+    background-image: url(https://i.pinimg.com/564x/c6/3f/a0/c63fa0fa4e80647184bf2bd35e037515.jpg);
+    background-size: 45% auto;
+    background-position: center;
+    border-style:dotted;
+    border-color:rgb(194, 174, 192);
+    border-width: 5px;
+   
+}
+
+.header h1 {
+  padding-left:20px ;
+  font-size: 40px ;
+  
+
+}
+.header h3 {
+  padding-left:  20px;;
+  font-size: 25px;
+  
+}
+
+.header div {  
+  padding-top: 10px;
+  margin:auto;
+  float:inline-start;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  
+}
+
+/* Style the Top Navigation section */
+.topnav{
+  margin: auto ;
+  padding-left:20px;
+  border: 20px ;
+  content: 50%;
+  list-style-type: none; 
+  text-align: center;
+  justify-content: center;
+  margin-left: 25px;
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
+.topnav a {
+  color: #050505;
+  
+}
+
+.topnav p {
+  font-size: 16px;
+  margin: auto
+}
+
+/* Style the side navigation */
+.sidenav {
+  margin: auto;
+  padding: 30px ;
+  padding-top: 15%;
+  height:300px;
+  width: 300px;
+  border: 20px;
+  content: 20px; 
+  float:right;
+  display: flex;
+  flex: 1 0 0;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+}
+
+
+.sidenav img{
+  border-radius: 10%;
+  padding: 10px;
+  margin-right: 10px;
+  border-style: dotted;
+  border-color:rgb(194, 174, 192);
+  border-width: 10px;
+
+  
+}
+
+.sidenav p {
+  color: rgb(5, 5, 5);
+  padding: 10px;
+  display: block;
+}
+
+.sidenav a {
+  color: rgb(5, 5, 5);
+  padding: 10px;
+  text-decoration: none;
+  display: block;
+}
+
+
+/* hover */
+.sidenav a:hover {
+  background-color: #f5cae8d1;
+  color: black;
+}
+
+.aboutme {
+  margin: auto ;
+  padding: 30px; 
+  border: 20px; 
+  font-family: Courier, monospace ;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.aboutme h2{
+  display: block;
+  font-size: 35px;
+  color: darksalmon;
+  text-align: end;
+  
+}
+
+.aboutme p {
+  color: rgb(5, 5, 5);
+  padding: 10px;
+  display:inline-block;
+  text-align: end;
+  font-size: 35px;
+}
+
+.aboutme img {
+  border-radius: 10%;
+  padding: 10px;
+  margin-right: 10px;
+  border-style: dotted;
+  border-color:rgb(194, 174, 192);
+  border-width: 10px;
+   
+}
+
+    
+.footer {
+  padding: 10px;
+  margin: auto;
+  clear: both;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.header h4 {
+ 
+  font-size: 10px;
+  padding: 10%;
+  text-align: center;
+}
+
+.p {
+ 
+  font-size: 10px;
+  padding: 10%;
+  text-align: center;
+}
+
